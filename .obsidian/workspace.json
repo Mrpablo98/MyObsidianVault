@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyConcepts/TTS System.md",
+                "file": "MyConcepts/WhatsApp Bot System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TTS System"
+              "title": "WhatsApp Bot System"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyConcepts/TTS System.md",
+                "file": "MyConcepts/WhatsApp Bot System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de TTS System"
+              "title": "Enlaces entrantes de WhatsApp Bot System"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyConcepts/TTS System.md",
+                "file": "MyConcepts/WhatsApp Bot System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de TTS System"
+              "title": "Enlaces salientes de WhatsApp Bot System"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyConcepts/TTS System.md",
+                "file": "MyConcepts/WhatsApp Bot System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de TTS System"
+              "title": "Esquema de WhatsApp Bot System"
             }
           }
         ]
@@ -183,11 +183,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0cbc0661a03e9204",
+  "active": "7bc2b3e9aa0131f4",
   "lastOpenFiles": [
+    "MyConcepts/TTS System.md",
+    "MyConcepts/WhatsApp Bot System.md",
     "README.md",
     "Bienvenido.md",
-    "MyConcepts/TTS System.md",
     "cree un enlace.md",
     "MyConcepts"
   ]
